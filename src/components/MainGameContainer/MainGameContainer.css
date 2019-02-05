@@ -1,0 +1,53 @@
+.mainCardContainer {
+    margin-bottom: 50px;
+    margin-left: 0;
+    padding: 10px; 
+}
+
+.gameMessage {
+    text-align: center;
+    max-width: 100%;
+    align-content: center
+}
+
+.gameMessage p {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color:  rgb(48, 44, 44);
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 0px;
+}
+
+.gameScores {
+    text-align: center;
+    max-width: 100%;
+    align-content: center;
+    margin-bottom: 10px;
+}
+.gameScores p {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color:#3c7623;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 25px;
+}
+
+@media (max-width: 750px) {
+
+    .gameCard {
+        height: 100px;
+        width: 100px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .gameCard {
+        height: 75px;
+        width: 75px;
+    }
+}

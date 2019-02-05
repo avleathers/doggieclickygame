@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Corgi",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/58997/pexels-photo-58997.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "name": "Boxers",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/850602/pexels-photo-850602.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "name": "Maltese",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/416196/pexels-photo-416196.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "name": "German Shepherd",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/333083/pexels-photo-333083.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 5,
+        "name": "Frenchie",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/160846/french-bulldog-summer-smile-joy-160846.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "name": "Labs",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/350748/pexels-photo-350748.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "name": "Schnauzer",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/289446/pexels-photo-289446.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "name": "Jack Russell",
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/1750543/pexels-photo-1750543.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

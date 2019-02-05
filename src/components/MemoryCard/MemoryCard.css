@@ -1,0 +1,23 @@
+.card {
+    background: #fff;
+  }
+  
+.img-container:hover{
+    transform: scale(1.1);
+}
+
+@media (max-width: 750px) {
+
+  .gameCard {
+      height: 100px;
+      width: 100px;
+  }
+}
+
+@media (max-width: 400px) {
+
+  .gameCard {
+      height: 75px;
+      width: 75px;
+  }
+}

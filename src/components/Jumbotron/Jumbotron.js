@@ -7,10 +7,10 @@ const Jumbotron = () => (
   <div className="container text-center">
   <br>
   </br>
-    <h1 className="display-4">React Clicky Game!</h1>
+    <h1 className="display-4">Dog Memory Game!</h1>
     <br>
   </br>
-    <p className="lead">Click on any dog to earn points, but don't click on any dog more than once!</p>
+    {/* <p className="lead">Click each dog once to score!</p> */}
   </div>
 </div>
 );

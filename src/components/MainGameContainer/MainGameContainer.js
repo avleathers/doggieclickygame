@@ -6,7 +6,7 @@ import "./MainGameContainer.css";
 class MainGameContainer extends Component {
 	state = {
 		images,
-		message: "Click one of the dogs to begin!",
+		message: "Click each dog only once to score!",
 		score: 0,
 		topScore: 0
 	};

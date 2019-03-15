@@ -3,8 +3,8 @@ import "./Footer.css";
 
 
 const Footer = () => (
-  <div className="container-fluid mainCardContainer">
-			<div className="gameMessage text-center">
+  <div className="footer">
+			<div className="footer text-center">
     <p className="footerText">Missy Leathers | 2019</p>
   </div>
 </div>
